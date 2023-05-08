@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/technology-communications-site/static/css/main.4ffe6f5f.css",
-    "main.js": "/technology-communications-site/static/js/main.674c29a4.js",
+    "main.css": "/technology-communications-site/static/css/main.a0934b43.css",
+    "main.js": "/technology-communications-site/static/js/main.277f5c69.js",
     "static/media/ai.png": "/technology-communications-site/static/media/ai.5167183777eb462f4ab0.png",
     "static/media/blog03.png": "/technology-communications-site/static/media/blog03.fb332f42fda0e1c34cea.png",
     "static/media/blog04.png": "/technology-communications-site/static/media/blog04.05d612dd697472ad58c2.png",
     "static/media/blog02.png": "/technology-communications-site/static/media/blog02.151a6ffaa0b2fe193528.png",
     "index.html": "/technology-communications-site/index.html",
-    "main.4ffe6f5f.css.map": "/technology-communications-site/static/css/main.4ffe6f5f.css.map",
-    "main.674c29a4.js.map": "/technology-communications-site/static/js/main.674c29a4.js.map"
+    "main.a0934b43.css.map": "/technology-communications-site/static/css/main.a0934b43.css.map",
+    "main.277f5c69.js.map": "/technology-communications-site/static/js/main.277f5c69.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ffe6f5f.css",
-    "static/js/main.674c29a4.js"
+    "static/css/main.a0934b43.css",
+    "static/js/main.277f5c69.js"
   ]
 }
