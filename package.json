@@ -1,8 +1,8 @@
 {
   "name": "t-c-react",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://vkmyth.github.io/technology-communications",
+  "private": false,
+  "homepage": "https://vkmyth.github.io/technology-communications",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
