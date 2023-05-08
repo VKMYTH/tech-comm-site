@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/technology-communications/static/css/main.4ffe6f5f.css",
-    "main.js": "/technology-communications/static/js/main.4d23fc85.js",
-    "static/media/ai.png": "/technology-communications/static/media/ai.5167183777eb462f4ab0.png",
-    "static/media/blog03.png": "/technology-communications/static/media/blog03.fb332f42fda0e1c34cea.png",
-    "static/media/blog04.png": "/technology-communications/static/media/blog04.05d612dd697472ad58c2.png",
-    "static/media/blog02.png": "/technology-communications/static/media/blog02.151a6ffaa0b2fe193528.png",
-    "index.html": "/technology-communications/index.html",
-    "main.4ffe6f5f.css.map": "/technology-communications/static/css/main.4ffe6f5f.css.map",
-    "main.4d23fc85.js.map": "/technology-communications/static/js/main.4d23fc85.js.map"
+    "main.css": "/technology-communications-site/static/css/main.4ffe6f5f.css",
+    "main.js": "/technology-communications-site/static/js/main.be8dc365.js",
+    "static/media/ai.png": "/technology-communications-site/static/media/ai.5167183777eb462f4ab0.png",
+    "static/media/blog03.png": "/technology-communications-site/static/media/blog03.fb332f42fda0e1c34cea.png",
+    "static/media/blog04.png": "/technology-communications-site/static/media/blog04.05d612dd697472ad58c2.png",
+    "static/media/blog02.png": "/technology-communications-site/static/media/blog02.151a6ffaa0b2fe193528.png",
+    "index.html": "/technology-communications-site/index.html",
+    "main.4ffe6f5f.css.map": "/technology-communications-site/static/css/main.4ffe6f5f.css.map",
+    "main.be8dc365.js.map": "/technology-communications-site/static/js/main.be8dc365.js.map"
   },
   "entrypoints": [
     "static/css/main.4ffe6f5f.css",
-    "static/js/main.4d23fc85.js"
+    "static/js/main.be8dc365.js"
   ]
 }
